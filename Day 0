@@ -1,0 +1,28 @@
+What is a markup language?
+
+So bascically it is a language which is used to format the text and data of a web page. it uses something called tags, moreover Some examples of a markup language are BBC, HTML, SGML, and XML.
+
+markup language is not a programming language.
+(things which i know about programming language)it uses the computer resources to perform some instruction or some function. still confused a bit.
+(new question arises what is programming though i have done it but does not understand it completely) in short programming is a way to instruct a computer to perform some specific task.
+and the language used to do so is programming language. hahaha.
+
+It's a series of special markings, interspersed with plain text, which if removed or ignored, leave the plain text as a complete whole. Or, those markings can be interpreted in a predefined manner (make this text bold, make this text an ordered list) that enhances its presentation to the read
+
+3 types of markup language:-
+1)presenational markup
+2)procedural markup
+3)descriptive markup
+
+HTML - Hyper Text Markup Language
+XML - extensible Markup Language
+
+HyperText is a text which contains a link to other texts
+Hypermedia is a term used for hypertext which is not constrained to be text. it can include graphics, vedio and sound.
+
+hyper text markup language is the standard markup language for documents to be displayed in web browser.
+
+two types of tags in html-
+1)companion tag
+2)self contained tag
+
